@@ -18,16 +18,18 @@ Most AI pricing comparisons are screenshots of a pricing page on the day someone
 
 ## Tools covered in v0.1.0
 
-| Tool | Source page | Rows | Affiliate link on aihustleworld.com |
+**Affiliate disclosure:** the links in the last column are affiliate links. If you sign up through one, AI Hustle World may earn a commission at no extra cost to you. They do not change what a row says: every price is read from the vendor's own page in the Source page column, and the affiliate links are kept out of the data file.
+
+| Tool | Source page | Rows | Affiliate link |
 |---|---|---|---|
-| ElevenLabs (Creative plans) | <https://elevenlabs.io/pricing> | 12 | yes |
-| OpusClip | <https://www.opus.pro/pricing> | 5 | no |
-| Descript | <https://www.descript.com/pricing> | 8 | no |
-| AdCreative.ai | <https://www.adcreative.ai/#new-pricing-section> | 30 | yes |
-| Intercom helpdesk and Fin AI Agent | <https://www.intercom.com/pricing> | 9 | no |
-| Captions | <https://www.captions.ai/pricing> | 8 | no |
-| Chatbase | <https://www.chatbase.co/pricing> | 9 | no |
-| Weav | <https://weav.com/pricing> | 9 | yes |
+| ElevenLabs (Creative plans) | <https://elevenlabs.io/pricing> | 12 | [ElevenLabs (affiliate link)](https://try.elevenlabs.io/yh2xrua7zq9x) |
+| OpusClip | <https://www.opus.pro/pricing> | 5 | none |
+| Descript | <https://www.descript.com/pricing> | 8 | none |
+| AdCreative.ai | <https://www.adcreative.ai/#new-pricing-section> | 30 | [AdCreative.ai (affiliate link)](https://free-trial.adcreative.ai/w3gpiv0v8iiw) |
+| Intercom helpdesk and Fin AI Agent | <https://www.intercom.com/pricing> | 9 | none |
+| Captions | <https://www.captions.ai/pricing> | 8 | none |
+| Chatbase | <https://www.chatbase.co/pricing> | 9 | none |
+| Weav | <https://weav.com/pricing> | 9 | [Weav (affiliate link)](https://go.weav.com/muntasir-ahmad-chowdhury) |
 
 The first release follows the tools AI Hustle World has already written about. That is why the affiliate column exists: see [section 6 of the methodology](METHODOLOGY.md#6-independence).
 
@@ -47,7 +49,7 @@ The first release follows the tools AI Hustle World has already written about. T
 - It is not a ranking or a recommendation. It records published prices and limits, nothing about output quality.
 - It is not based on buying or testing plans unless a row's `notes` column says so explicitly. Prices are read from public vendor sources.
 - It is not hand-verified row by row. An AI assistant can misread a page or miss a plan hidden behind a selector, so treat the source link as the authority and report mistakes.
-- It contains no affiliate links. `source_url` always points to the vendor's own page, with no tracking parameters.
+- The data file contains no affiliate links. `source_url` always points to the vendor's own page, with no tracking parameters. The only affiliate links in this repository are the labeled ones in the coverage table above.
 
 ## Using and citing the data
 

@@ -40,7 +40,7 @@ When a vendor changes a price, the old row is set to `stale` and a new row is ad
 
 ## 6. Independence
 
-Affiliate relationships, sponsorships and other commercial ties do not decide which tools are included or how their rows are written. The dataset contains no affiliate links: `source_url` is always the vendor's own page.
+Affiliate relationships, sponsorships and other commercial ties do not decide which tools are included or how their rows are written. The data file contains no affiliate links: `source_url` is always the vendor's own page. The coverage table in the README does include the maintainer's affiliate links for the tools where the maintainer has them. They are labeled as affiliate links, they sit outside the data file, and they never replace the vendor source link.
 
 Readers should still be able to weigh the maintainer's position, so the `maintainer_affiliate` column says `yes` when AI Hustle World has an affiliate or referral link with that vendor on its website, and `no` when the maintainer knows of none. The first release covers tools that AI Hustle World has already written about, and some of those are affiliate relationships. In the first release ElevenLabs, AdCreative.ai and Weav are marked `yes`. AI Hustle World's broader disclosures are on its [Disclaimer](https://aihustleworld.com/disclaimer) page.
 

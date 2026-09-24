@@ -16,7 +16,7 @@ Open an issue with the tool name, the vendor's pricing page and why it belongs i
 
 ## Pull requests
 
-Pull requests that change data must include the vendor source URL and the date you checked it, and must follow the column rules in the data dictionary. Pull requests that add promotional wording, affiliate or tracking links, or unsourced figures will be closed.
+Pull requests that change data must include the vendor source URL and the date you checked it, and must follow the column rules in the data dictionary. Pull requests that add promotional wording, affiliate or tracking links to the data, or unsourced figures will be closed.
 
 ## Corrections policy
 
