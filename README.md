@@ -28,7 +28,7 @@ Most AI pricing comparisons are screenshots of a pricing page on the day someone
 | AdCreative.ai | <https://www.adcreative.ai/#new-pricing-section> | 30 | [AdCreative.ai (affiliate link)](https://free-trial.adcreative.ai/w3gpiv0v8iiw) |
 | Intercom helpdesk and Fin AI Agent | <https://www.intercom.com/pricing> | 9 | none |
 | Captions | <https://www.captions.ai/pricing> | 8 | none |
-| Chatbase | <https://www.chatbase.co/pricing> | 9 | none |
+| Chatbase | <https://www.chatbase.co/pricing> | 9 | [Chatbase (affiliate link)](https://link.chatbase.co/muntasir-ahmad-chowdhury) |
 | Weav | <https://weav.com/pricing> | 9 | [Weav (affiliate link)](https://go.weav.com/muntasir-ahmad-chowdhury) |
 
 The first release follows the tools AI Hustle World has already written about. That is why the affiliate column exists: see [section 6 of the methodology](METHODOLOGY.md#6-independence).
