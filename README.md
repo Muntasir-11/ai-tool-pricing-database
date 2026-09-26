@@ -27,7 +27,7 @@ Most AI pricing comparisons are screenshots of a pricing page on the day someone
 | Descript | <https://www.descript.com/pricing> | 8 | none |
 | AdCreative.ai | <https://www.adcreative.ai/#new-pricing-section> | 30 | [AdCreative.ai (affiliate link)](https://free-trial.adcreative.ai/w3gpiv0v8iiw) |
 | Intercom helpdesk and Fin AI Agent | <https://www.intercom.com/pricing> | 9 | none |
-| Captions | <https://www.captions.ai/pricing> | 8 | none |
+| Captions | <https://captions.ai/pricing> | 8 | none |
 | Chatbase | <https://www.chatbase.co/pricing> | 9 | [Chatbase (affiliate link)](https://link.chatbase.co/muntasir-ahmad-chowdhury) |
 | Weav | <https://weav.com/pricing> | 9 | [Weav (affiliate link)](https://go.weav.com/muntasir-ahmad-chowdhury) |
 
