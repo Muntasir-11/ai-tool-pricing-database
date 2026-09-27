@@ -63,6 +63,19 @@ Use the "Cite this repository" button on GitHub for a formatted citation.
 
 Found a price that changed, a broken source link or a wrong calculation? Open an issue using the **Price correction** template, or read [CONTRIBUTING.md](CONTRIBUTING.md). Corrections are reviewed against the vendor's own page.
 
+## AI Hustle World articles on these tools
+
+These are the AI Hustle World articles that review or compare the tools in this dataset. They add context the data file cannot, such as who each tool fits and where it falls short. Articles are written on their own dates, so if a price in an article differs from a row here, trust the row with the later `verified_date` and confirm on the vendor's page.
+
+| Tool | Articles |
+|---|---|
+| ElevenLabs | [ElevenLabs Review 2026](https://aihustleworld.com/2026/08/elevenlabs-review.html) · [ElevenLabs vs Alternatives](https://aihustleworld.com/2026/08/elevenlabs-vs-alternatives.html) |
+| OpusClip, Descript, Captions | [OpusClip vs Descript vs Captions](https://aihustleworld.com/2026/09/opusclip-vs-descript-vs-captions.html) · [AI Video Clipping Tools: Cost Per Minute](https://aihustleworld.com/2026/09/ai-video-clipping-tools.html) |
+| AdCreative.ai | [AdCreative.ai Pricing](https://aihustleworld.com/2026/08/adcreative-ai-pricing.html) · [AdCreative.ai Review](https://aihustleworld.com/2026/08/adcreative-ai-review.html) · [AdCreative.ai Free Trial](https://aihustleworld.com/2026/08/adcreative-ai-free-trial.html) |
+| Intercom Fin | [Weav vs Intercom Fin](https://aihustleworld.com/2026/09/weav-vs-intercom-fin.html) |
+| Chatbase | [Weav vs Chatbase](https://aihustleworld.com/2026/09/weav-vs-chatbase.html) |
+| Weav | [Weav Pricing Explained](https://aihustleworld.com/2026/09/weav-pricing-explained.html) · [Weav Review 2026](https://aihustleworld.com/2026/09/weav-review.html) |
+
 ## Related
 
 - Full write-up and context: <https://aihustleworld.com/ai-tool-pricing-database>
