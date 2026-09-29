@@ -12,7 +12,7 @@ Corrections are checked against the vendor's own page before any row changes. If
 
 ## Suggest a tool to add
 
-Open an issue with the tool name, the vendor's pricing page and why it belongs in the dataset. Tools are added when their pricing can be verified from a primary source under the rules in [METHODOLOGY.md](METHODOLOGY.md).
+Open an issue with the **Suggest a tool** template, giving the tool name, the vendor's pricing page and why it belongs in the dataset. Tools are added when their pricing can be verified from a primary source under the rules in [METHODOLOGY.md](METHODOLOGY.md).
 
 ## Pull requests
 

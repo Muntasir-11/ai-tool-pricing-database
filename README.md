@@ -13,6 +13,8 @@ Most AI pricing comparisons are screenshots of a pricing page on the day someone
 | [`data/tool_pricing.csv`](data/tool_pricing.csv) | The dataset. One row per tool, plan, billing period and credit tier. |
 | [`METHODOLOGY.md`](METHODOLOGY.md) | How prices are collected, checked, calculated and marked stale, what the first release covers, and what the dataset does not claim. |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to report a wrong or outdated price. |
+| [`SECURITY.md`](SECURITY.md) | How to report tampered data or a repository security problem privately. |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | How to behave in issues, pull requests and discussions. |
 | [`CITATION.cff`](CITATION.cff) | Machine-readable citation details (GitHub shows a "Cite this repository" button from this file). |
 | [`LICENSE`](LICENSE) | CC BY 4.0 (the official legal text). |
 
