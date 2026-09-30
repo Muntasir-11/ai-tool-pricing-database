@@ -11,6 +11,14 @@ authors:
 url: "https://aihustleworld.com/ai-tool-pricing-database"
 repository-code: "https://github.com/Muntasir-11/ai-tool-pricing-database"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.23054247"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23054247"
+    description: "All versions (resolves to the latest release)"
+  - type: doi
+    value: "10.5281/zenodo.23054248"
+    description: "Version 0.1.0"
 abstract: "Open, source-linked pricing data for AI tools. Every row records the vendor page it was read from and the date it was last checked; prices a vendor does not publish clearly are left blank. Rows are read by an AI assistant and run through automated checks, not hand-checked one by one."
 keywords:
   - AI tools

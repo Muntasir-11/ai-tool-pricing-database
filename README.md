@@ -1,5 +1,7 @@
 # AI Tool Pricing Database
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23054247.svg)](https://doi.org/10.5281/zenodo.23054247)
+
 Open, source-linked pricing data for AI tools, maintained by [AI Hustle World](https://aihustleworld.com), an independent publication about practical AI tools and workflows.
 
 Most AI pricing comparisons are screenshots of a pricing page on the day someone wrote the article. This dataset is built the other way around: every row carries the URL it came from and the date it was last checked, and anything the vendor does not publish clearly is left blank instead of guessed.
@@ -60,6 +62,8 @@ The data is released under [CC BY 4.0](LICENSE): you may copy, share and build o
 > AI Tool Pricing Database, AI Hustle World (https://aihustleworld.com), CC BY 4.0. Check the `verified_date` of each row you use.
 
 Use the "Cite this repository" button on GitHub for a formatted citation.
+
+Each release is archived on Zenodo. To cite the dataset in general, use DOI [10.5281/zenodo.23054247](https://doi.org/10.5281/zenodo.23054247), which always resolves to the latest version. To cite the exact data you used, use that release's own DOI; v0.1.0 is [10.5281/zenodo.23054248](https://doi.org/10.5281/zenodo.23054248).
 
 ## Reporting a problem
 
