@@ -8,6 +8,8 @@ Most AI pricing comparisons are screenshots of a pricing page on the day someone
 
 **Status:** first release, v0.1.0 (2026-09-24). 90 rows across 8 tools. Rows were read from each vendor's own pricing page by an AI assistant and run through automated checks; they were not hand-checked by a person one by one. Read [METHODOLOGY.md](METHODOLOGY.md) before relying on any figure.
 
+**Also available on:** [Kaggle](https://www.kaggle.com/datasets/aihustleworld/ai-tool-pricing-database) · [Zenodo](https://doi.org/10.5281/zenodo.23054247) (archived releases with DOIs). This GitHub repository is the canonical source; the copies mirror its releases.
+
 ## What is in this repository
 
 | File | What it is |
