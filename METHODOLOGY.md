@@ -42,14 +42,14 @@ When a vendor changes a price, the old row is set to `stale` and a new row is ad
 
 Affiliate relationships, sponsorships and other commercial ties do not decide which tools are included or how their rows are written. The data file contains no affiliate links: `source_url` is always the vendor's own page. The coverage table in the README does include the maintainer's affiliate links for the tools where the maintainer has them. They are labeled as affiliate links, they sit outside the data file, and they never replace the vendor source link.
 
-Readers should still be able to weigh the maintainer's position, so the `maintainer_affiliate` column says `yes` when AI Hustle World has an affiliate or referral link with that vendor on its website, and `no` when the maintainer knows of none. The first release covers tools that AI Hustle World has already written about, and some of those are affiliate relationships. In the first release ElevenLabs, AdCreative.ai, Weav and Chatbase are marked `yes`. AI Hustle World's broader disclosures are on its [Disclaimer](https://aihustleworld.com/disclaimer) page.
+Readers should still be able to weigh the maintainer's position, so the `maintainer_affiliate` column says `yes` when AI Hustle World has an affiliate or referral link with that vendor on its website, and `no` when the maintainer knows of none. The first release covers tools that AI Hustle World has already written about, and some of those are affiliate relationships. In the first release ElevenLabs, AdCreative.ai, Weav and Chatbase are marked `yes`. Tidio and Murf, added on 2026-10-03, are also marked `yes`. AI Hustle World's broader disclosures are on its [Disclaimer](https://aihustleworld.com/disclaimer) page.
 
 ## 7. Scope of the first release
 
 - Self-serve plan pricing shown on each vendor's public pricing page on the date in `verified_date`.
 - Enterprise, custom and sales-only pricing is recorded as `not_published` and never estimated.
 - Add-ons are covered only in part. The first release includes credit top-ups that have a stated unit price. Extra seats, extra email addresses, branding removal and similar add-ons are not yet covered.
-- API, per-token and developer pricing is out of scope unless a row says otherwise. For ElevenLabs only the Creative plans tab was read, not the Agents or API tabs.
+- API, per-token and developer pricing is out of scope unless a row says otherwise. For ElevenLabs only the Creative plans tab was read, not the Agents or API tabs. For Murf only the Studio plans tab was read, not the API or Dub tabs. For Tidio the entry tier of each configurable plan was recorded, not the higher tiers in its plan builder.
 - Promotional prices, such as a discounted first month, are noted in `price_notes` and are not recorded as the plan price.
 
 ## 8. What this dataset does not claim
