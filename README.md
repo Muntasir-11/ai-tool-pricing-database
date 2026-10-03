@@ -6,7 +6,7 @@ Open, source-linked pricing data for AI tools, maintained by [AI Hustle World](h
 
 Most AI pricing comparisons are screenshots of a pricing page on the day someone wrote the article. This dataset is built the other way around: every row carries the URL it came from and the date it was last checked, and anything the vendor does not publish clearly is left blank instead of guessed.
 
-**Status:** first release, v0.1.0 (2026-09-24). 90 rows across 8 tools. Rows were read from each vendor's own pricing page by an AI assistant and run through automated checks; they were not hand-checked by a person one by one. Read [METHODOLOGY.md](METHODOLOGY.md) before relying on any figure.
+**Status:** first release, v0.1.0 (2026-09-24), with 90 rows across 8 tools. The `main` branch now also covers Tidio and Murf (added 2026-10-03), 107 rows across 10 tools, which will be part of the next release. Rows were read from each vendor's own pricing page by an AI assistant and run through automated checks; they were not hand-checked by a person one by one. Read [METHODOLOGY.md](METHODOLOGY.md) before relying on any figure.
 
 **Also available on:** [Kaggle](https://www.kaggle.com/datasets/aihustleworld/ai-tool-pricing-database) · [Zenodo](https://doi.org/10.5281/zenodo.23054247) (archived releases with DOIs). This GitHub repository is the canonical source; the copies mirror its releases.
 
@@ -38,8 +38,10 @@ Most AI pricing comparisons are screenshots of a pricing page on the day someone
 | Captions | <https://captions.ai/pricing> | 8 | none |
 | Chatbase | <https://www.chatbase.co/pricing> | 9 | [Chatbase (affiliate link)](https://link.chatbase.co/muntasir-ahmad-chowdhury) |
 | Weav | <https://weav.com/pricing> | 9 | [Weav (affiliate link)](https://go.weav.com/muntasir-ahmad-chowdhury) |
+| Tidio | <https://www.tidio.com/pricing/> | 11 | [Tidio (affiliate link)](https://affiliate.tidio.com/2ll7vttz9s4o) |
+| Murf (Studio plans) | <https://murf.ai/pricing> | 6 | [Murf (affiliate link)](https://get.murf.ai/0k1qozd4inx6) |
 
-The first release follows the tools AI Hustle World has already written about. That is why the affiliate column exists: see [section 6 of the methodology](METHODOLOGY.md#6-independence).
+The first release follows the tools AI Hustle World has already written about. That is why the affiliate column exists: see [section 6 of the methodology](METHODOLOGY.md#6-independence). Tidio and Murf were added on 2026-10-03, after the v0.1.0 release.
 
 ## Reading a row
 
@@ -85,6 +87,8 @@ These are the AI Hustle World articles that review or compare the tools in this 
 | Intercom Fin | [Weav vs Intercom Fin](https://aihustleworld.com/2026/09/weav-vs-intercom-fin.html) |
 | Chatbase | [Weav vs Chatbase](https://aihustleworld.com/2026/09/weav-vs-chatbase.html) |
 | Weav | [Weav Pricing Explained](https://aihustleworld.com/2026/09/weav-pricing-explained.html) · [Weav Review 2026](https://aihustleworld.com/2026/09/weav-review.html) |
+| Tidio | [Best AI E-Commerce Tools](https://aihustleworld.com/2026/09/best-ai-e-commerce-tools.html) · [Best AI Customer Service Tools](https://aihustleworld.com/2026/07/best-ai-customer-service-tools-in-2026-free-paid-top-10-compared.html) |
+| Murf | [ElevenLabs vs Alternatives](https://aihustleworld.com/2026/08/elevenlabs-vs-alternatives.html) · [Best AI Voice Generators](https://aihustleworld.com/2026/07/best-ai-voice-generators-in-2026.html) |
 
 ## Related
 
