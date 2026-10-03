@@ -10,6 +10,8 @@ Most AI pricing comparisons are screenshots of a pricing page on the day someone
 
 **Also available on:** [Kaggle](https://www.kaggle.com/datasets/aihustleworld/ai-tool-pricing-database) · [Zenodo](https://doi.org/10.5281/zenodo.23054247) (archived releases with DOIs). This GitHub repository is the canonical source; the copies mirror its releases.
 
+**Listed in:** [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#economics) (Economics).
+
 ## What is in this repository
 
 | File | What it is |
