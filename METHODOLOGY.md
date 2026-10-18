@@ -10,7 +10,7 @@ Every row must be traceable to a **primary source** the vendor controls: the pub
 
 ## 2. Verification
 
-Each row is read from its source page on the date in `verified_date`. In this dataset the reading is done by an AI assistant (Claude) working for the maintainer. It opens the vendor's page in a real browser, reads the text the page displays, switches the billing toggle and plan selectors so that every billing period and tier the page offers is captured, and checks each figure against the page. Rows are then run through automated checks for format, allowed values, duplicate keys and arithmetic.
+Each row is read from its source page on the date in `verified_date`. In this dataset the reading is done by an AI assistant (Claude) working for the maintainer. It opens the vendor's page in a real browser, reads the text the page displays, switches the billing toggle and plan selectors so that every billing period and tier the page offers is captured, and checks each figure against the page. Rows are then run through automated checks for format, allowed values, duplicate keys and arithmetic. Rows added on 2026-10-18 and later were also re-read by a second, independent AI agent against the vendor's page, which corrected or blanked any figure the page did not show.
 
 The maintainer has not personally re-opened every row. The `verified_by` column says who did the check: `ai-assisted` means the reading described above, and `maintainer` means the maintainer personally checked that row against the vendor page. A row that has not been read against its source page on that date does not get that date.
 
