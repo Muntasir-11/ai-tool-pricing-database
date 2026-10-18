@@ -6,7 +6,7 @@ Open, source-linked pricing data for AI tools, maintained by [AI Hustle World](h
 
 Most AI pricing comparisons are screenshots of a pricing page on the day someone wrote the article. This dataset is built the other way around: every row carries the URL it came from and the date it was last checked, and anything the vendor does not publish clearly is left blank instead of guessed.
 
-**Status:** first release, v0.1.0 (2026-09-24), with 90 rows across 8 tools. The `main` branch has grown since then: Tidio and Murf were added on 2026-10-03 and 41 more tools on 2026-10-18, so it now has 422 rows across 51 tools. These will be part of the next release, and more tools are being added. Rows were read from each vendor's own pricing page by an AI assistant and run through automated checks; they were not hand-checked by a person one by one. Read [METHODOLOGY.md](METHODOLOGY.md) before relying on any figure.
+**Status:** first release, v0.1.0 (2026-09-24), with 90 rows across 8 tools. The `main` branch has grown since then: Tidio and Murf were added on 2026-10-03, 41 more tools on 2026-10-18 and 19 more on 2026-10-19, so it now has 552 rows across 70 tools. These will be part of the next release, and more tools are being added. Rows were read from each vendor's own pricing page by an AI assistant and run through automated checks; they were not hand-checked by a person one by one. Read [METHODOLOGY.md](METHODOLOGY.md) before relying on any figure.
 
 **Also available on:** [Kaggle](https://www.kaggle.com/datasets/aihustleworld/ai-tool-pricing-database) · [Zenodo](https://doi.org/10.5281/zenodo.23054247) (archived releases with DOIs). This GitHub repository is the canonical source; the copies mirror its releases.
 
@@ -81,8 +81,27 @@ Most AI pricing comparisons are screenshots of a pricing page on the day someone
 | Surfer SEO | <https://surferseo.com/pricing/> | 11 | none |
 | Writesonic | <https://writesonic.com/pricing> | 10 | none |
 | Zapier | <https://zapier.com/pricing> | 6 | none |
+| Framer | <https://www.framer.com/pricing> | 6 | none |
+| Frase | <https://www.frase.io/pricing> | 7 | none |
+| Freshdesk | <https://www.freshworks.com/freshdesk/pricing/> | 6 | none |
+| Grok | <https://x.ai/pricing> | 9 | none |
+| Help Scout | <https://www.helpscout.com/pricing/> | 7 | none |
+| Hugging Face | <https://huggingface.co/docs/hub/storage-limits> | 4 | none |
+| Instantly | <https://instantly.ai/pricing> | 7 | none |
+| Later | <https://later.com/pricing/> | 6 | none |
+| Linear | <https://linear.app/pricing> | 6 | none |
+| n8n | <https://n8n.io/pricing/> | 7 | none |
+| Notta | <https://www.notta.ai/en/pricing> | 6 | none |
+| Resemble AI | <https://www.resemble.ai/pricing> | 6 | none |
+| Riverside | <https://riverside.com/pricing> | 8 | none |
+| Rytr | <https://rytr.me/pricing> | 7 | none |
+| SciSpace | <https://scispace.com/credits-guide> | 14 | none |
+| SE Ranking | <https://seranking.com/subscription.html> | 5 | none |
+| Speak AI | <https://speakai.co/pricing/> | 4 | [Speak AI (affiliate link)](https://speakai.co/?via=muntasir-ahmad) |
+| VEED | <https://www.veed.io/pricing> | 8 | none |
+| Zendesk | <https://www.zendesk.com/pricing/> | 7 | none |
 
-The first release follows the tools AI Hustle World has already written about. That is why the affiliate column exists: see [section 6 of the methodology](METHODOLOGY.md#6-independence). Tidio and Murf were added on 2026-10-03 and 41 more tools on 2026-10-18, after the v0.1.0 release. Every tool in this table is covered in at least one AI Hustle World article.
+The first release follows the tools AI Hustle World has already written about. That is why the affiliate column exists: see [section 6 of the methodology](METHODOLOGY.md#6-independence). Tidio and Murf were added on 2026-10-03, 41 more tools on 2026-10-18 and 19 more on 2026-10-19, after the v0.1.0 release. Every tool in this table is covered in at least one AI Hustle World article.
 
 ## Reading a row
 
@@ -171,6 +190,25 @@ These are the AI Hustle World articles that review or compare the tools in this 
 | Surfer SEO | [Best AI SEO Tools in 2026: 10 Tools Compared](https://aihustleworld.com/2026/08/best-ai-seo-tools-in-2026-10-tools-compared.html) |
 | Writesonic | [Best AI SEO Tools in 2026: 10 Tools Compared](https://aihustleworld.com/2026/08/best-ai-seo-tools-in-2026-10-tools-compared.html) |
 | Zapier | [Best AI Workflow Automation Tools (Free & Paid)](https://aihustleworld.com/2026/07/best-ai-workflow-automation-tools-free-paid.html) |
+| Framer | [Best AI Website Builders in 2026: 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-website-builders-in-2026-10-tools-to-build-a-website-without-coding.html) |
+| Frase | [Best AI SEO Tools in 2026: 10 Tools Compared](https://aihustleworld.com/2026/08/best-ai-seo-tools-in-2026-10-tools-compared.html) |
+| Freshdesk | [Best AI Customer Service Tools in 2026 (Free & Paid)](https://aihustleworld.com/2026/07/best-ai-customer-service-tools-in-2026-free-paid-top-10-compared.html) |
+| Grok | [7 Best ChatGPT Alternatives in 2026: Free & Paid Compared](https://aihustleworld.com/2026/07/7-best-chatgpt-alternatives-in-2026-tested-compared.html) |
+| Help Scout | [Best AI Customer Service Tools in 2026 (Free & Paid)](https://aihustleworld.com/2026/07/best-ai-customer-service-tools-in-2026-free-paid-top-10-compared.html) |
+| Hugging Face | [Best AI Model Hosting and Inference Platforms in 2026](https://aihustleworld.com/2026/09/ai-model-hosting-and-inference-platforms.html) |
+| Instantly | [Best AI Lead Generation Tools in 2026: 8 Platforms Compared](https://aihustleworld.com/2026/08/best-ai-lead-generation-tools-in-2026-8-platforms-compared-by-use-case.html) |
+| Later | [Best AI Tools for Creating Social Media Content (Free & Paid)](https://aihustleworld.com/2026/07/best-ai-tools-for-creating-social-media-content-free-paid.html) |
+| Linear | [Best AI Product Management Tools in 2026: Roadmaps & Ops](https://aihustleworld.com/2026/08/best-ai-product-management-tools.html) |
+| n8n | [Best AI Workflow Automation Tools (Free & Paid)](https://aihustleworld.com/2026/07/best-ai-workflow-automation-tools-free-paid.html) |
+| Notta | [Best AI Meeting Assistants (Free & Paid): 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-meeting-assistants-free-paid.html) |
+| Resemble AI | [Text-to-Speech Explained: How AI Generates Natural Voices](https://aihustleworld.com/2026/09/text-to-speech-explained-ai-natural-voices.html) |
+| Riverside | [8 Best AI Content Repurposing Tools in 2026](https://aihustleworld.com/2026/09/best-ai-content-repurposing-tools.html) |
+| Rytr | [Best AI Writing Tools in 2026: Free & Paid Picks](https://aihustleworld.com/2026/07/best-ai-writing-tools-in-2026-free-paid-top-10-picks.html) |
+| SciSpace | [Best AI Research Assistants (Free & Paid): Top 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-research-assistants-free-paid-top-10-tools-compared.html) |
+| SE Ranking | [Best AI SEO Tools in 2026: 10 Tools Compared](https://aihustleworld.com/2026/08/best-ai-seo-tools-in-2026-10-tools-compared.html) |
+| Speak AI | [Best AI Conversation Intelligence Tools in 2026](https://aihustleworld.com/2026/08/best-ai-conversation-intelligence-tools.html) |
+| VEED | [Best AI Video Generators (Free & Paid): Top 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-video-generators-free-paid-top-10-tools-compared.html) |
+| Zendesk | [Best AI Customer Service Tools in 2026 (Free & Paid)](https://aihustleworld.com/2026/07/best-ai-customer-service-tools-in-2026-free-paid-top-10-compared.html) |
 
 ## Related
 
