@@ -6,7 +6,7 @@ Open, source-linked pricing data for AI tools, maintained by [AI Hustle World](h
 
 Most AI pricing comparisons are screenshots of a pricing page on the day someone wrote the article. This dataset is built the other way around: every row carries the URL it came from and the date it was last checked, and anything the vendor does not publish clearly is left blank instead of guessed.
 
-**Status:** first release, v0.1.0 (2026-09-24), with 90 rows across 8 tools. The `main` branch has grown since then: Tidio and Murf were added on 2026-10-03, 41 more tools on 2026-10-18 and 19 more on 2026-10-19, so it now has 552 rows across 70 tools. These will be part of the next release, and more tools are being added. Rows were read from each vendor's own pricing page by an AI assistant and run through automated checks; they were not hand-checked by a person one by one. Read [METHODOLOGY.md](METHODOLOGY.md) before relying on any figure.
+**Status:** first release, v0.1.0 (2026-09-24), with 90 rows across 8 tools. The `main` branch has grown since then: Tidio and Murf were added on 2026-10-03, 41 more tools on 2026-10-18, 19 more on 2026-10-19 and 19 more on 2026-10-20, so it now has 685 rows across 89 tools. These will be part of the next release, and more tools are being added. Rows were read from each vendor's own pricing page by an AI assistant and run through automated checks; they were not hand-checked by a person one by one. Read [METHODOLOGY.md](METHODOLOGY.md) before relying on any figure.
 
 **Also available on:** [Kaggle](https://www.kaggle.com/datasets/aihustleworld/ai-tool-pricing-database) · [Zenodo](https://doi.org/10.5281/zenodo.23054247) (archived releases with DOIs). This GitHub repository is the canonical source; the copies mirror its releases.
 
@@ -100,8 +100,27 @@ Most AI pricing comparisons are screenshots of a pricing page on the day someone
 | Speak AI | <https://speakai.co/pricing/> | 4 | [Speak AI (affiliate link)](https://speakai.co/?via=muntasir-ahmad) |
 | VEED | <https://www.veed.io/pricing> | 8 | none |
 | Zendesk | <https://www.zendesk.com/pricing/> | 7 | none |
+| Amplitude | <https://amplitude.com/pricing> | 5 | none |
+| Castmagic | <https://www.castmagic.io/pricing> | 8 | none |
+| Consensus | <https://consensus.app/pricing/> | 8 | none |
+| Hostinger Website Builder | <https://www.hostinger.com/website-builder> | 3 | none |
+| JetBrains AI | <https://www.jetbrains.com/store/ai/> | 9 | none |
+| Jira Product Discovery | <https://www.atlassian.com/software/jira/product-discovery/pricing> | 6 | none |
+| Midjourney | <https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans> | 8 | none |
+| Mixpanel | <https://mixpanel.com/pricing/> | 4 | none |
+| Munch | <https://www.munchstudio.com/pricing> | 10 | none |
+| Pitch | <https://pitch.com/pricing> | 8 | none |
+| QuickBooks | <https://quickbooks.intuit.com/pricing/> | 5 | none |
+| Quso.ai | <https://quso.ai/pricing> | 7 | none |
+| Repurpose.io | <https://repurpose.io/pricing/> | 6 | none |
+| Systeme.io | <https://systeme.io/pricing> | 8 | [Systeme.io (affiliate link)](https://systeme.io/?sa=sa0106782843732db980ae678d8537800a64790c6e) |
+| Tailwind | <https://www.tailwindapp.com/pricing-overview> | 9 | none |
+| Webflow | <https://webflow.com/pricing> | 7 | none |
+| WellSaid Labs | <https://www.wellsaid.io/ai-voice-pricing> | 7 | none |
+| Wix | <https://www.wix.com/plans> | 6 | none |
+| Zoho Desk | <https://www.zoho.com/desk/pricing.html> | 9 | none |
 
-The first release follows the tools AI Hustle World has already written about. That is why the affiliate column exists: see [section 6 of the methodology](METHODOLOGY.md#6-independence). Tidio and Murf were added on 2026-10-03, 41 more tools on 2026-10-18 and 19 more on 2026-10-19, after the v0.1.0 release. Every tool in this table is covered in at least one AI Hustle World article.
+The first release follows the tools AI Hustle World has already written about. That is why the affiliate column exists: see [section 6 of the methodology](METHODOLOGY.md#6-independence). Tidio and Murf were added on 2026-10-03, 41 more tools on 2026-10-18, 19 more on 2026-10-19 and 19 more on 2026-10-20, after the v0.1.0 release. Every tool in this table is covered in at least one AI Hustle World article.
 
 ## Reading a row
 
@@ -209,6 +228,24 @@ These are the AI Hustle World articles that review or compare the tools in this 
 | Speak AI | [Best AI Conversation Intelligence Tools in 2026](https://aihustleworld.com/2026/08/best-ai-conversation-intelligence-tools.html) |
 | VEED | [Best AI Video Generators (Free & Paid): Top 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-video-generators-free-paid-top-10-tools-compared.html) |
 | Zendesk | [Best AI Customer Service Tools in 2026 (Free & Paid)](https://aihustleworld.com/2026/07/best-ai-customer-service-tools-in-2026-free-paid-top-10-compared.html) |
+| Amplitude | [Best AI Product Management Tools in 2026: Roadmaps & Ops](https://aihustleworld.com/2026/08/best-ai-product-management-tools.html) |
+| Castmagic | [8 Best AI Content Repurposing Tools in 2026](https://aihustleworld.com/2026/09/best-ai-content-repurposing-tools.html) |
+| Consensus | [Best AI Research Assistants (Free & Paid): Top 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-research-assistants-free-paid-top-10-tools-compared.html) |
+| Hostinger Website Builder | [Best AI Website Builders in 2026: 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-website-builders-in-2026-10-tools-to-build-a-website-without-coding.html) |
+| JetBrains AI | [Best AI Coding Assistants (Free & Paid): Top 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-coding-assistants-free-paid-top-10-tools-compared.html) |
+| Jira Product Discovery | [Best AI Product Management Tools in 2026: Roadmaps & Ops](https://aihustleworld.com/2026/08/best-ai-product-management-tools.html) |
+| Midjourney | [Best AI Image Generators in 2026: Free & Paid Tools Compared](https://aihustleworld.com/2026/07/best-ai-image-generators-in-2026-free-paid-top-10-tools-compared.html) |
+| Mixpanel | [Best AI Product Management Tools in 2026: Roadmaps & Ops](https://aihustleworld.com/2026/08/best-ai-product-management-tools.html) |
+| Munch | [8 Best AI Content Repurposing Tools in 2026](https://aihustleworld.com/2026/09/best-ai-content-repurposing-tools.html) |
+| Pitch | [10 Best AI Presentation Makers in 2026: Free & Paid Compared](https://aihustleworld.com/2026/07/best-ai-presentation-makers-top-10-tools-compared-free-paid.html) |
+| QuickBooks | [10 Best AI Tools for Small Business Owners](https://aihustleworld.com/2026/07/10-best-ai-tools-for-small-business-owners-in-2026-free-paid.html) |
+| Quso.ai | [8 Best AI Content Repurposing Tools in 2026](https://aihustleworld.com/2026/09/best-ai-content-repurposing-tools.html) |
+| Repurpose.io | [8 Best AI Content Repurposing Tools in 2026](https://aihustleworld.com/2026/09/best-ai-content-repurposing-tools.html) |
+| Tailwind | [Best AI Tools for Pinterest Content Creation](https://aihustleworld.com/2026/08/best-ai-tools-for-pinterest-content-creation.html) |
+| Webflow | [Best AI Website Builders in 2026: 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-website-builders-in-2026-10-tools-to-build-a-website-without-coding.html) |
+| WellSaid Labs | [Best AI Voice Generators in 2026](https://aihustleworld.com/2026/07/best-ai-voice-generators-in-2026.html) |
+| Wix | [Best AI Website Builders in 2026: 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-website-builders-in-2026-10-tools-to-build-a-website-without-coding.html) |
+| Zoho Desk | [Best AI Customer Service Tools in 2026 (Free & Paid)](https://aihustleworld.com/2026/07/best-ai-customer-service-tools-in-2026-free-paid-top-10-compared.html) |
 
 ## Related
 
