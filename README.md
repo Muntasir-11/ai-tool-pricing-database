@@ -6,7 +6,7 @@ Open, source-linked pricing data for AI tools, maintained by [AI Hustle World](h
 
 Most AI pricing comparisons are screenshots of a pricing page on the day someone wrote the article. This dataset is built the other way around: every row carries the URL it came from and the date it was last checked, and anything the vendor does not publish clearly is left blank instead of guessed.
 
-**Status:** first release, v0.1.0 (2026-09-24), with 90 rows across 8 tools. The `main` branch has grown since then: Tidio and Murf were added on 2026-10-03, 41 more tools on 2026-10-18, 19 more on 2026-10-19 and 19 more on 2026-10-20, so it now has 685 rows across 89 tools. These will be part of the next release, and more tools are being added. Rows were read from each vendor's own pricing page by an AI assistant and run through automated checks; they were not hand-checked by a person one by one. Read [METHODOLOGY.md](METHODOLOGY.md) before relying on any figure.
+**Status:** first release, v0.1.0 (2026-09-24), with 90 rows across 8 tools. The `main` branch has grown since then: Tidio and Murf were added on 2026-10-03, 100 more tools were added between 2026-10-18 and 2026-10-21, so it now has 807 rows across 110 tools. These will be part of the next release. Rows were read from each vendor's own pricing page by an AI assistant and run through automated checks; they were not hand-checked by a person one by one. Read [METHODOLOGY.md](METHODOLOGY.md) before relying on any figure.
 
 **Also available on:** [Kaggle](https://www.kaggle.com/datasets/aihustleworld/ai-tool-pricing-database) · [Zenodo](https://doi.org/10.5281/zenodo.23054247) (archived releases with DOIs). This GitHub repository is the canonical source; the copies mirror its releases.
 
@@ -119,8 +119,29 @@ Most AI pricing comparisons are screenshots of a pricing page on the day someone
 | WellSaid Labs | <https://www.wellsaid.io/ai-voice-pricing> | 7 | none |
 | Wix | <https://www.wix.com/plans> | 6 | none |
 | Zoho Desk | <https://www.zoho.com/desk/pricing.html> | 9 | none |
+| Abyssale | <https://www.abyssale.com/pricing> | 5 | none |
+| Beautiful.ai | <https://www.beautiful.ai/pricing> | 5 | none |
+| Claw Agents AI | <https://pages.clawagentsai.io/bundle/> | 1 | [Claw Agents AI (affiliate link)](https://jvz9.com/c/3604975/444723) |
+| Creatify | <https://creatify.ai/pricing> | 10 | none |
+| Durable | <https://durable.com/pricing> | 5 | none |
+| Elicit | <https://elicit.com/pricing> | 12 | none |
+| Fliki | <https://fliki.ai/pricing> | 6 | none |
+| Gemini Code Assist | <https://codeassist.google/products/business> | 4 | none |
+| Ideogram | <https://docs.ideogram.ai/plans-and-billing/available-plans> | 8 | none |
+| Jobscan | <https://app.jobscan.co/plan> | 3 | none |
+| Klap | <https://klap.app/pricing> | 6 | none |
+| Kling | <https://kling.ai/app/membership/membership-plan> | 9 | none |
+| Luma Dream Machine | <https://lumalabs.ai/pricing> | 8 | none |
+| Rezi | <https://www.rezi.ai/pricing> | 4 | none |
+| Screaming Frog SEO Spider | <https://www.screamingfrog.co.uk/seo-spider/pricing/?wmc-currency=USD> | 5 | none |
+| Smartcat | <https://www.smartcat.com/pricing/> | 4 | none |
+| Squarespace | <https://www.squarespace.com/pricing> | 6 | none |
+| Superhuman | <https://superhuman.com/plans> | 6 | none |
+| Teal | <https://www.tealhq.com/pricing> | 4 | none |
+| Vizard | <https://vizard.ai/pricing> | 6 | none |
+| Windsurf | <https://devin.ai/pricing> | 5 | none |
 
-The first release follows the tools AI Hustle World has already written about. That is why the affiliate column exists: see [section 6 of the methodology](METHODOLOGY.md#6-independence). Tidio and Murf were added on 2026-10-03, 41 more tools on 2026-10-18, 19 more on 2026-10-19 and 19 more on 2026-10-20, after the v0.1.0 release. Every tool in this table is covered in at least one AI Hustle World article.
+The first release follows the tools AI Hustle World has already written about. That is why the affiliate column exists: see [section 6 of the methodology](METHODOLOGY.md#6-independence). Tidio and Murf were added on 2026-10-03, 100 more tools between 2026-10-18 and 2026-10-21, after the v0.1.0 release. Every tool in this table is covered in at least one AI Hustle World article.
 
 ## Reading a row
 
@@ -246,6 +267,26 @@ These are the AI Hustle World articles that review or compare the tools in this 
 | WellSaid Labs | [Best AI Voice Generators in 2026](https://aihustleworld.com/2026/07/best-ai-voice-generators-in-2026.html) |
 | Wix | [Best AI Website Builders in 2026: 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-website-builders-in-2026-10-tools-to-build-a-website-without-coding.html) |
 | Zoho Desk | [Best AI Customer Service Tools in 2026 (Free & Paid)](https://aihustleworld.com/2026/07/best-ai-customer-service-tools-in-2026-free-paid-top-10-compared.html) |
+| Abyssale | [Best AdCreative.ai Alternatives in 2026 for Every Budget](https://aihustleworld.com/2026/08/best-adcreative-ai-alternatives.html) |
+| Beautiful.ai | [10 Best AI Presentation Makers in 2026: Free & Paid Compared](https://aihustleworld.com/2026/07/best-ai-presentation-makers-top-10-tools-compared-free-paid.html) |
+| Creatify | [Best AdCreative.ai Alternatives in 2026 for Every Budget](https://aihustleworld.com/2026/08/best-adcreative-ai-alternatives.html) |
+| Durable | [Best AI Website Builders in 2026: 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-website-builders-in-2026-10-tools-to-build-a-website-without-coding.html) |
+| Elicit | [Best AI Research Assistants (Free & Paid): Top 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-research-assistants-free-paid-top-10-tools-compared.html) |
+| Fliki | [7 AI Video Tools for a Phone-Only Faceless YouTube Channel](https://aihustleworld.com/2026/07/7-best-ai-video-tools-for-a-phone-only-faceless-youtube-channel-2026.html) |
+| Gemini Code Assist | [Best AI Coding Assistants (Free & Paid): Top 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-coding-assistants-free-paid-top-10-tools-compared.html) |
+| Ideogram | [Best AI Image Generators in 2026: Free & Paid Tools Compared](https://aihustleworld.com/2026/07/best-ai-image-generators-in-2026-free-paid-top-10-tools-compared.html) |
+| Jobscan | [Best AI Resume Builders (Free & Paid)](https://aihustleworld.com/2026/07/best-ai-resume-builders-free-paid.html) |
+| Klap | [AI Video Clipping Tools: Cost Per Minute (2026)](https://aihustleworld.com/2026/09/ai-video-clipping-tools.html) |
+| Kling | [Best AI Video Generators (Free & Paid): Top 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-video-generators-free-paid-top-10-tools-compared.html) |
+| Luma Dream Machine | [Best AI Video Generators (Free & Paid): Top 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-video-generators-free-paid-top-10-tools-compared.html) |
+| Rezi | [Best AI Resume Builders (Free & Paid)](https://aihustleworld.com/2026/07/best-ai-resume-builders-free-paid.html) |
+| Screaming Frog SEO Spider | [Best AI SEO Tools in 2026: 10 Tools Compared](https://aihustleworld.com/2026/08/best-ai-seo-tools-in-2026-10-tools-compared.html) |
+| Smartcat | [Best AI Translation Tools (Free & Paid): Top 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-translation-tools-free-paid-top-10-tools-compared.html) |
+| Squarespace | [Best AI Website Builders in 2026: 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-website-builders-in-2026-10-tools-to-build-a-website-without-coding.html) |
+| Superhuman | [Best AI Email Assistants (Free & Paid): 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-email-assistants-free-paid.html) |
+| Teal | [Best AI Resume Builders (Free & Paid)](https://aihustleworld.com/2026/07/best-ai-resume-builders-free-paid.html) |
+| Vizard | [AI Video Clipping Tools: Cost Per Minute (2026)](https://aihustleworld.com/2026/09/ai-video-clipping-tools.html) |
+| Windsurf | [Best AI Coding Assistants (Free & Paid): Top 10 Tools Compared](https://aihustleworld.com/2026/07/best-ai-coding-assistants-free-paid-top-10-tools-compared.html) |
 
 ## Related
 
