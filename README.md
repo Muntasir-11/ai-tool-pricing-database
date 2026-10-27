@@ -6,7 +6,9 @@ Open, source-linked pricing data for AI tools, maintained by [AI Hustle World](h
 
 Most AI pricing comparisons are screenshots of a pricing page on the day someone wrote the article. This dataset is built the other way around: every row carries the URL it came from and the date it was last checked, and anything the vendor does not publish clearly is left blank instead of guessed.
 
-**Status:** first release, v0.1.0 (2026-09-24), with 90 rows across 8 tools. The `main` branch has grown since then: Tidio and Murf were added on 2026-10-03, 100 more tools were added between 2026-10-18 and 2026-10-21, so it now has 807 rows across 110 tools. These will be part of the next release. Rows were read from each vendor's own pricing page by an AI assistant and run through automated checks; they were not hand-checked by a person one by one. Read [METHODOLOGY.md](METHODOLOGY.md) before relying on any figure.
+**Status:** first release, v0.1.0 (2026-09-24), with 90 rows across 8 tools. The `main` branch has grown since then: Tidio and Murf were added on 2026-10-03, 100 more tools were added on 2026-10-18 and 2026-10-19, so it now has 807 rows across 110 tools (112 product names, because Intercom's helpdesk, Fin AI Agent and Fin Voice count as one tool, as in v0.1.0). These will be part of the next release. Rows were read from each vendor's own pricing page by an AI assistant and run through automated checks; they were not hand-checked by a person one by one. Read [METHODOLOGY.md](METHODOLOGY.md) before relying on any figure.
+
+**Correction, 2026-10-27:** 255 rows from two batches had a `verified_date` of 2026-10-20 or 2026-10-21, but both batches were committed on the morning of 2026-10-19 (Bangladesh time, UTC+6), before those dates. Their `verified_date` now reads 2026-10-19. No prices or other fields changed.
 
 **Also available on:** [Kaggle](https://www.kaggle.com/datasets/aihustleworld/ai-tool-pricing-database) · [Zenodo](https://doi.org/10.5281/zenodo.23054247) (archived releases with DOIs). This GitHub repository is the canonical source; the copies mirror its releases.
 
@@ -141,7 +143,7 @@ Most AI pricing comparisons are screenshots of a pricing page on the day someone
 | Vizard | <https://vizard.ai/pricing> | 6 | none |
 | Windsurf | <https://devin.ai/pricing> | 5 | none |
 
-The first release follows the tools AI Hustle World has already written about. That is why the affiliate column exists: see [section 6 of the methodology](METHODOLOGY.md#6-independence). Tidio and Murf were added on 2026-10-03, 100 more tools between 2026-10-18 and 2026-10-21, after the v0.1.0 release. Every tool in this table is covered in at least one AI Hustle World article.
+The first release follows the tools AI Hustle World has already written about. That is why the affiliate column exists: see [section 6 of the methodology](METHODOLOGY.md#6-independence). Tidio and Murf were added on 2026-10-03, 100 more tools on 2026-10-18 and 2026-10-19, after the v0.1.0 release. Every tool in this table is covered in at least one AI Hustle World article.
 
 ## Reading a row
 
